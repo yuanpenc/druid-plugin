@@ -1,0 +1,42 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "grafadruid",
+  "signedByOrgName": "grafadruid",
+  "plugin": "grafadruid-druid-datasource",
+  "version": "1.1.0",
+  "time": 1620776651960,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "grafadruid-druid-datasource_linux_arm64": "1d80db1f9ef1e9ce919ac511195ac2b8ed96f0759d9d437ca1be81853fc73f3b",
+    "grafadruid-druid-datasource_linux_arm": "d00eee101f1a3921501c648b59a532a6e804daa6df446de3d103e21e3223d9c4",
+    "module.js.map": "53bfaf9bf828e7accdbe080f2341d1af0a1a1d26927c3b3af0d557c7771e554c",
+    "grafadruid-druid-datasource_darwin_amd64": "8837fc35e0c573f905b8f4d3e62fee7de890dac4d67674d5257d789696845663",
+    "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "grafadruid-druid-datasource_linux_amd64": "d48195ad50447d64716b09992d861c1ce1d399de4dd449619a94f6e71db9c7d4",
+    "img/screenshot-panels.png": "48b7c9c20cfb8fddacfcac9a2612d46ba7b2c3f24725d391152a986e911d8c87",
+    "img/screenshot-datasource.png": "0844925cf438d1a012a041d119b381c0af89b9bda3df66b51643cd40bd8da1f5",
+    "img/druid.svg": "10ec098bb044b2f41933780f89de72912ab59273f9461866daf03d6b8daac17b",
+    "img/screenshot-querybuilder.png": "c10ebe72e97ec13eb07828a9b6688b029b61976079daa55cc72a4f42b2d94556",
+    "img/screenshot-variables.png": "0c086aaf97b62311437403a24d4e84dca2b79f58acadaa7dece97abd8b2da44d",
+    "grafadruid-druid-datasource_windows_amd64.exe": "64a3e8a6fc5b35e513dda5a7ea0278b4c7e872c56e7fe64171a5d61dca8a645f",
+    "module.js.LICENSE.txt": "436f9403e0318acbd90ac904e62ea6b88f281bfd253ae49cd74d7c636f6f21a3",
+    "module.js": "18890813d27555b797f0218ad57c4774721ce404070108710f5af614819e1aa7",
+    "README.md": "4027249640178bfffaf84469bd564908d43c56f572992bc7bf908a152a9bbdbe",
+    "plugin.json": "1055cbfd8ec472f2aa6bdc7df212cd858341401003530942e2475c144ceacde0"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqAEARMKAAYFAmCbFswACgkQfk0ManCIZuc9twII/MTRTQnkF+uDHRDy1942
+yDJF1UAJuRBrQVtxDr0UM8Gy+EDeUrRmAJjkIjSGi5jI+hcktPtlrVZsm5F6
+1RnqF5gCCMZrNVcxK/R2cSoY3OruUJEsoq5gpjyc6I7s9x2u2jlL5gjv/jnL
+wBy+fpB6K9J2XBCImLeVq8T5j+38OfQeLMfs
+=8Sjo
+-----END PGP SIGNATURE-----
